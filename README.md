@@ -34,7 +34,7 @@ Discover which companies laid off the most employees.
 ###  Country Analysis  🌍
 Analyze layoff patterns across different countries to identify those most affected.
 
-### 🚀 Stage Analysis  
+### Stage Analysis  🚀 
 Explore which company stages (e.g., startup, late-stage) were impacted most by layoffs.
 
 ## Approach Used  🧹
@@ -50,3 +50,5 @@ Explore which company stages (e.g., startup, late-stage) were impacted most by l
 ### 2. Exploratory Data Analysis (EDA)  
 - Used SQL queries to explore key questions  
 - Applied aggregate and window functions to discover patterns and trends over time
+
+#Happy Analyzing 🚀
