@@ -51,4 +51,5 @@ Explore which company stages (e.g., startup, late-stage) were impacted most by l
 - Used SQL queries to explore key questions  
 - Applied aggregate and window functions to discover patterns and trends over time
 
-# Happy Analyzing 🚀
+
+### Happy Analyzing 🚀
