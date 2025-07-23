@@ -1,4 +1,4 @@
-# 💼 Layoffs Data Analysis Using MySQL
+# 💼📉 Layoffs Data Analysis Using MySQL
 
 ## 🧩 Problem Statement
 We are analyzing layoffs data to identify which companies, industries, and countries experienced the most layoffs after the COVID-19 pandemic. The dataset used for this project was sourced from the Kaggle Layoffs Dataset.
@@ -8,7 +8,7 @@ The primary objective of this project is to uncover patterns and insights from t
 
 ## 📊 About the Data
 The dataset provides information on layoffs across various companies around the world post-pandemic. It includes:
-- **Rows:** 3,300  
+- **Rows:** 2500  
 - **Columns:** 9  
 
 | Column              | Description                                     | Data Type   |
