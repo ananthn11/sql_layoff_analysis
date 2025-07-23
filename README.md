@@ -52,9 +52,8 @@ Explore which company stages (e.g., startup, late-stage) were impacted most by l
 - Applied aggregate and window functions to discover patterns and trends over time
 
 ## ⚙️ How to Use
-- load `layoffs.csv` into MySQL Workbench
+- Load `layoffs.csv` into MySQL Workbench
 - Run `layoffs_cleaning.sql` **first** to clean and prepare the data  
 - Then run `layoffs_analysis.sql` to explore and analyze the cleaned data
 
-- 
 ### Happy Analyzing 🚀
